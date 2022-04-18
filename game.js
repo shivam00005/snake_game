@@ -20,7 +20,7 @@ function main(currentTime) {
   // game over popup
   if (gameOver) {
     if (confirm("You lost. press ok to restart")) {
-      window.location = "/";
+      window.location = "https://shivam00005.github.io/snake_game/";
     }
     return;
   }
