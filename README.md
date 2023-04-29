@@ -64,7 +64,6 @@ Live link to visit Snake Game: https://shivam00005.github.io/snake_game/
 
 ◉ The game should load in your browser and you can start playing.
 
-```
 
 
 ## :email:Feedback
