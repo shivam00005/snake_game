@@ -18,17 +18,7 @@ The Snake Game is an excellent example of a simple yet entertaining game created
 
 ## :camera: Screenshots
 
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/home.png" alt="home page">
-
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/added-task.png" alt="task page" >
-
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/login.png" alt="login page" >
-
-<img src="https://raw.githubusercontent.com/shivam00005/ToDo.github.io/master/screenshots/register.png" alt="register page" >
-
-
-
-
+<img src="https://raw.githubusercontent.com/shivam00005/snake_game/main/snake-game.png" alt="home page">
 
 ## :information_desk_person: Demo
 
